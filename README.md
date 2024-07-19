@@ -10,7 +10,7 @@ This is the official implementation of AFD-LLIE. Our paper will soon be availabl
 Visual results, along with uploaded checkpoints, can be accessed at [\[google drive\]](https://drive.google.com/drive/folders/1cQprRn5LmazptHFcJcr_DTbykkDLnX8F?usp=sharing).
 
 
-[<img src="assets/imgsli_1.png" height="223px"/>](https://imgsli.com/MjgwMjk1)
+
 
 [<img src="assets/imgsli_2.png" height="223px"/>](https://imgsli.com/MjgwMjk2)
 
@@ -26,8 +26,12 @@ CNN: UNet (written by Chatgpt), [\[MIR-Net ECCV 2020\]](https://github.com/swz30
 
  Diffusion-based: [\[Diff-L Siggraph 2023\]](https://github.com/JianghaiSCU/Diffusion-Low-Light) and Flow-based: [\[LLFlow AAAI 2022\]](https://github.com/wyf0912/LLFlow)).
 
-Our proposed AFD-LLIE consistently and significantly enhances their performance. Let's make UNet (by ChatGPT) great again! Even a basic UNet can achieve impressive results and outperform Retinexformer with 24.25dB on LOL-v2.
+Our proposed AFD-LLIE consistently and significantly enhances their performance. 
 
+## Let's make UNet (by ChatGPT) great again! 
+Even a basic UNet can achieve impressive results and outperform Retinexformer with 24.25dB on LOL-v2.
+
+[<img src="assets/imgsli_1.png" height="223px"/>](https://imgsli.com/MjgwMjk1)
 
  ### Citation
 If our work is useful for your research, please consider citing:
