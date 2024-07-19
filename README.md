@@ -12,9 +12,11 @@ Visual results, along with uploaded checkpoints, can be accessed at [\[google dr
 
 
 
-[<img src="assets/imgsli_2.png" height="223px"/>](https://imgsli.com/MjgwMjk2)
+[<img src="assets/imgsli_2.png" height="300px"/>](https://imgsli.com/MjgwMjk2)
 
-[<img src="assets/imgsli_3.png" height="223px"/>](https://imgsli.com/MjgwMzAx)
+[<img src="assets/imgsli_3.png" height="300px"/>](https://imgsli.com/MjgwMzAx)
+
+[<img src="assets/imgsli_4.png" height="300px"/>](https://imgsli.com/MjgwMzEx)
 ## We have explored ten SOTA LLIE baselines: 
 
 CNN: UNet (written by Chatgpt), [\[MIR-Net ECCV 2020\]](https://github.com/swz30/MIRNet), 
