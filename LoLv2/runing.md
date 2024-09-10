@@ -1,7 +1,9 @@
 Here are an illustration for how to run our inference code and get the enhanced images.
 
+
+
   </br>
-  &ensp; step 1 : run the inference script in stage1/inference.py and get the stage-1 enhanced result (Please refer to the IAT for more training details of the stage-1).
+  &ensp; step 1 : run the inference script in stage1/inference.py and get the stage-1 enhanced result (Please refer to the [\[IAT\]](https://github.com/cuiziteng/Illumination-Adaptive-Transformer). for more training details of the stage-1).
    </br>
   &ensp; step 2 : specify a LDRM method (such snr), and run the stage-2 result
    </br>
