@@ -6,7 +6,11 @@
 <!-- #### [\[Paper\]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhou_NeRFLix_High-Quality_Neural_View_Synthesis_by_Learning_a_Degradation-Driven_Inter-Viewpoint_CVPR_2023_paper.pdf) [\[Project\]](https://t.co/uNiTd9ujCv)
 --- -->
 
-This is the official implementation of AFD-LLIE. Our paper will soon be available on ARXIV. Our code will be made available before ECCV24. 
+News, We have release the training and inference scripts for LoLv2 and our paper is available on [\[ARXIV\]](https://arxiv.org/pdf/2409.01641v1).
+
+
+<!-- This is the official implementation of AFD-LLIE. Our paper will soon be available on ARXIV. Our code will be made available before ECCV24.  -->
+
 Visual results, along with uploaded checkpoints, can be accessed at [\[google drive\]](https://drive.google.com/drive/folders/1cQprRn5LmazptHFcJcr_DTbykkDLnX8F?usp=sharing).
 
 
